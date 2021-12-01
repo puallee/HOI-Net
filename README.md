@@ -19,4 +19,5 @@ Figure 2: The overall framework of our proposed High-Order-Interaction (HOI) met
 You can download HOI-Net(resnet50) and HOI-Net(resnet101) model from link：链接：https://pan.baidu.com/s/1Nvk3J4gpNzeCe5LbqXfCqQ  code：abcd and https://pan.baidu.com/s/1Itdf4-fCRtjkkF3p5_C_tA  code：abcd  and our models achieves the following performance on FGVC CUB-200-2011 Datasets. 
 ## performance on FGVC CUB-200-2011 Datasets
 
-  
+  ![image](https://user-images.githubusercontent.com/19604312/144165257-3c1ced33-b90a-4faa-9ec0-f26ae08a8c6b.png)
+
